@@ -1,5 +1,4 @@
 
-# Prebuilt wheels for Flash-Attention
+# Prebuilt wheels for [Flash-Attention](https://github.com/HazyResearch/flash-attention/)
 
-Initially were part of [Kubin](https://github.com/seruva19/kubin).
-Decided to move them out so that repository did not inflate too much.
+Initially were part of [Kubin](https://github.com/seruva19/kubin), but were moved out to minimize size of that repository.
